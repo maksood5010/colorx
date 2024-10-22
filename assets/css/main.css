@@ -10544,7 +10544,7 @@ span.meta-comment {
   margin-bottom: 0;
 }
 .footer__widget.footer__widget-item-1 {
-  max-width: 323px;
+  /* max-width: 323px; */
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .footer__widget.footer__widget-item-1 {
