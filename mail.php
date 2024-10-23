@@ -50,9 +50,9 @@ class ContactForm {
 }
 
 
-$recipient = "soukhinkhan271@gmail.com";
+$recipient = "info@colorxadvertising.ae";
 $fromName = "RRDevs";
-$fromEmail = "hellow@rrdevs.net";
+$fromEmail = "maksoodm01@gmail.com";
 
 $contactForm = new ContactForm($recipient, $fromName, $fromEmail);
 
